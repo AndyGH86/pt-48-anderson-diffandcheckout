@@ -52,8 +52,7 @@ Para obtener más información sobre el comando `git diff` y sus opciones, consu
 ## A continuación un ejemplo con un video:
 
 
-https://github.com/AndyGH86/pt-48-anderson-diffandcheckout/assets/141663667/6ed2300b-d218-430b-a2ba-5eed324f2da3
-
+[![](http://img.youtube.com/vi/qsZgk0AbAAc/0.jpg)](https://www.youtube.com/watch?v=qsZgk0AbAAc "")
 
 
 
