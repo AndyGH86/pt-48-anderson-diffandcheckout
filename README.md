@@ -112,7 +112,7 @@ Para obtener más información sobre el comando git checkout y sus opciones, con
  ## A continuación un ejemplo con un video:
 
 
-
+[![](http://img.youtube.com/vi/XFsh-cXkH4s/0.jpg)](https://www.youtube.com/watch?v=XFsh-cXkH4s "")
  
 
  Este archivo README proporciona una introducción básica a `git checkout` y `git diff`, pero hay muchas más opciones y características disponibles. ¡Explora y experimenta para aprovechar al máximo estas poderosas herramientas de Git!
